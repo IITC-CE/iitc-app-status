@@ -1,7 +1,7 @@
 url: https://weblate.iitc.app
-status: up
-code: 200
-responseTime: 923
-lastUpdated: 2021-09-15T23:05:38.356Z
+status: down
+code: 500
+responseTime: 1532
+lastUpdated: 2021-09-16T18:48:49.129Z
 startTime: Wed Apr 07 2021 13:46:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
