@@ -22,17 +22,17 @@
     "url": "https://weblate.iitc.app",
     "icon": "https://favicons.githubusercontent.com/weblate.iitc.app",
     "slug": "weblate-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 775,
-    "timeDay": 707,
-    "timeWeek": 913,
-    "timeMonth": 759,
-    "timeYear": 766,
+    "time": 774,
+    "timeDay": 502,
+    "timeWeek": 836,
+    "timeMonth": 750,
+    "timeYear": 765,
     "dailyMinutesDown": {}
   }
 ]
