@@ -2,7 +2,7 @@
   {
     "name": "IITC.app",
     "url": "https://iitc.app",
-    "icon": "https://favicons.githubusercontent.com/iitc.app",
+    "icon": "https://icons.duckduckgo.com/ip3/iitc.app.ico",
     "slug": "iitc-app",
     "status": "up",
     "uptime": "100.00%",
@@ -11,16 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 388,
-    "timeDay": 133,
-    "timeWeek": 141,
-    "timeMonth": 150,
-    "timeYear": 340,
+    "timeDay": 177,
+    "timeWeek": 151,
+    "timeMonth": 152,
+    "timeYear": 339,
     "dailyMinutesDown": {}
   },
   {
     "name": "Weblate service",
     "url": "https://weblate.iitc.app",
-    "icon": "https://favicons.githubusercontent.com/weblate.iitc.app",
+    "icon": "https://icons.duckduckgo.com/ip3/weblate.iitc.app.ico",
     "slug": "weblate-service",
     "status": "up",
     "uptime": "100.00%",
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 774,
-    "timeDay": 705,
-    "timeWeek": 837,
-    "timeMonth": 802,
+    "timeDay": 741,
+    "timeWeek": 854,
+    "timeMonth": 805,
     "timeYear": 782,
     "dailyMinutesDown": {}
   }
