@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 124,
-    "timeWeek": 142,
+    "time": 308,
+    "timeDay": 144,
+    "timeWeek": 144,
     "timeMonth": 147,
-    "timeYear": 237,
+    "timeYear": 235,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://weblate.iitc.app",
     "icon": "https://icons.duckduckgo.com/ip3/weblate.iitc.app.ico",
     "slug": "weblate-service",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "74.08%",
-    "uptimeWeek": "96.30%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.93%",
-    "time": 798,
-    "timeDay": 1495,
-    "timeWeek": 1103,
-    "timeMonth": 953,
-    "timeYear": 805,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "69.91%",
+    "uptimeWeek": "95.70%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.92%",
+    "time": 800,
+    "timeDay": 1444,
+    "timeWeek": 1169,
+    "timeMonth": 975,
+    "timeYear": 808,
     "dailyMinutesDown": {
-      "2023-06-01": 373
+      "2023-06-01": 433
     }
   }
 ]
