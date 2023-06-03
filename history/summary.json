@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 144,
-    "timeWeek": 144,
-    "timeMonth": 147,
-    "timeYear": 235,
+    "time": 307,
+    "timeDay": 128,
+    "timeWeek": 143,
+    "timeMonth": 145,
+    "timeYear": 234,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,17 @@
     "slug": "weblate-service",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "59.08%",
-    "uptimeWeek": "94.15%",
-    "uptimeMonth": "98.65%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "94.26%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "99.89%",
     "time": 806,
-    "timeDay": 1314,
-    "timeWeek": 1196,
-    "timeMonth": 1023,
+    "timeDay": 1169,
+    "timeWeek": 1177,
+    "timeMonth": 1018,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2023-06-02": 131,
+      "2023-06-02": 121,
       "2023-06-01": 458
     }
   }
