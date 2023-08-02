@@ -4,18 +4,20 @@
     "url": "https://iitc.app",
     "icon": "https://icons.duckduckgo.com/ip3/iitc.app.ico",
     "slug": "iitc-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 127,
-    "timeWeek": 132,
-    "timeMonth": 136,
+    "time": 257,
+    "timeDay": 143,
+    "timeWeek": 136,
+    "timeMonth": 137,
     "timeYear": 173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-02": 0
+    }
   },
   {
     "name": "Weblate service",
