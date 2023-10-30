@@ -4,18 +4,19 @@
     "url": "https://iitc.app",
     "icon": "https://icons.duckduckgo.com/ip3/iitc.app.ico",
     "slug": "iitc-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 157,
-    "timeWeek": 193,
-    "timeMonth": 153,
+    "timeDay": 138,
+    "timeWeek": 184,
+    "timeMonth": 151,
     "timeYear": 156,
     "dailyMinutesDown": {
+      "2023-10-30": 0,
       "2023-08-02": 15
     }
   },
