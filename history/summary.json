@@ -22,7 +22,7 @@
     "url": "https://weblate.iitc.app",
     "icon": "https://icons.duckduckgo.com/ip3/weblate.iitc.app.ico",
     "slug": "weblate-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "66.05%",
@@ -34,6 +34,7 @@
     "timeMonth": 805,
     "timeYear": 715,
     "dailyMinutesDown": {
+      "2024-12-26": 0,
       "2024-12-22": 942,
       "2024-12-21": 1440,
       "2024-12-20": 1040,
