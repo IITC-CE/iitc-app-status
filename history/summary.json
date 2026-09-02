@@ -24,17 +24,17 @@
     "url": "https://weblate.iitc.app",
     "icon": "https://icons.duckduckgo.com/ip3/weblate.iitc.app.ico",
     "slug": "weblate-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 824,
-    "timeDay": 308,
-    "timeWeek": 2352,
-    "timeMonth": 1053,
-    "timeYear": 955,
+    "timeDay": 351,
+    "timeWeek": 2108,
+    "timeMonth": 1032,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2025-09-18": 20,
       "2025-09-19": 18,
@@ -47,7 +47,8 @@
       "2026-02-01": 41,
       "2026-04-14": 58,
       "2026-05-06": 90,
-      "2026-05-07": 96
+      "2026-05-07": 96,
+      "2026-09-02": 0
     }
   }
 ]
